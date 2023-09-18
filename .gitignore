@@ -1,0 +1,6 @@
+# Ignore Terraform executable files
+terraform
+terraform.exe
+terraform.d/
+# Exclude Terraform executable files
+*.exe
